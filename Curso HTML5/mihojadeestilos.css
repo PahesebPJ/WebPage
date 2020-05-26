@@ -1,0 +1,30 @@
+#cabeceraweb{
+  background-color: #EA8974;
+}
+
+#navegacionprincipal{
+  background-color: #74DDEA;
+}
+
+#barralateral{
+  background-color: #F698F8;
+  float:left; /*prpiedad que hace romper el flujo de las cajas*/
+  height: 1010px;
+}
+
+#contenidoprincipal{
+  background-color: #E198F8;
+  margin-left: 210px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+#pieprincipal{
+  background-color: #F6F898;
+  clear: both;
+  margin-top: 20px;
+}
+
+li{
+  display: inline; /*Con esta propiedad los elementos li solo tomaran el espacio que ocupe el texto*/
+}
